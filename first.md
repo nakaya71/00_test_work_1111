@@ -4,4 +4,6 @@
 ## ArcGIS Field Maps とは
 ArcGIS Explorer + ArcGIS Collector + ArcGIS Tracker のアプリ
 
+２０２１年末までに移行してね。
+
 画像
