@@ -5,5 +5,6 @@
 ArcGIS Explorer + ArcGIS Collector + ArcGIS Tracker のアプリ
 
 ２０２１年末までに移行してね。
+Workforce は別。
 
 画像
